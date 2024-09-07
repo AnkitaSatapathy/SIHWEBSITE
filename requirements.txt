@@ -1,0 +1,4 @@
+fastapi==0.114.0
+pandas==2.2.2
+pydantic==2.9.0
+statsmodels==0.14.2
